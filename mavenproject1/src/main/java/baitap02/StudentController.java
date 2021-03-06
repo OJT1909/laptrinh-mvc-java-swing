@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package baitap01;
+package baitap02;
 
 import java.util.ArrayList;
 
@@ -12,7 +12,7 @@ import java.util.ArrayList;
  * @author KimAnh
  */
 public class StudentController {
-       private Student student;
+     private Student student;
     private ArrayList<Student> students;
     private StudentView view;
     public StudentController() {

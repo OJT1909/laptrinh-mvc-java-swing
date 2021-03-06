@@ -3,15 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package baitap01;
+package baitap02;
 
 /**
  *
  * @author KimAnh
  */
 public class StudentMVC {
-
-     public static void main(String[] args) {
+    public static void main(String[] args) {
         // TODO code application logic here
           kich_ban_2();
         kich_ban_3();
